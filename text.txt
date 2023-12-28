@@ -9,5 +9,7 @@ f
 ds
 fd
 f
-sd
-fsdfewfefefewfed
+
+Hi, I just made some changes to this text.txt file.
+If you wonder that how I did this, well it's simple.
+I just used the vi command to enable editing to this file in the git bash
